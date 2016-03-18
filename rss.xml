@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[56Street]]></title>
+        <description><![CDATA[56Street]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 07:13:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69fa3206-f73f-456d-a8bb-25102559a3e0.jpg">]]></description>
+            <link>undefinedlatest-acquisitions/index.html</link>
+            <guid isPermaLink="false">c792fcd5-c8b1-47c5-8b71-9aef64f77109</guid>
+            <pubDate>Fri, 18 Mar 2016 07:12:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
