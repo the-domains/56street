@@ -1,6 +1,6 @@
 name: 56Street
 favicon: null
-layout_spectrum: 0.59709
+layout_spectrum: 1
 typography_spectrum: 0.9955
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#9b9aa0'
-    - '#2f302b'
-    - '#d9d9d9'
-    - '#dab274'
-  brandStrength: 0.75
+    - '#660315'
+    - '#000000'
+    - '#0b1e44'
+    - '#070f25'
+    - '#36020b'
+  brandStrength: 0.875
   lightness: 0.75
-  saturation: 0.3729545185342431
+  saturation: 0.375
   rhythmicContrast: 0.38374003022909164
 purpose: []
