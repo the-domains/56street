@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Latest Acquisitions
-datePublished: '2016-03-18T07:12:37.037Z'
-dateModified: '2016-03-18T07:11:44.842Z'
+datePublished: '2016-03-18T07:15:24.283Z'
+dateModified: '2016-03-18T07:12:39.865Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-18-latest-acquisitions.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-latest-acquisitions.md
-published: true
 url: latest-acquisitions/index.html
 _type: Article
 
